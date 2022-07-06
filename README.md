@@ -12,6 +12,8 @@ Primarily working in JS and Ruby, proficient in Python and C#, learning Kotlin. 
 ## 📚 Research
 PhD researcher in neural methods for information extraction and entity linkage in 19th century London crime records (newspaper OCR and Old Bailey records) at The University of Sheffield. Research interests include natural language processing, machine learning, and big data.
 
+ORCID: https://orcid.org/0000-0003-2924-3068
+
 ## 🎛 Stage work
 Trained in stage rigging, light rigging, light console programming and operation, video wall and projection mapping in Resolume Arena. Experience in both live gig and club night environments, and pre-programmed stage performance environments.
 
